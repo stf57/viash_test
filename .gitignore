@@ -1,0 +1,18 @@
+# temporary files
+temp
+output
+
+# Nextflow
+work/
+.nextflow*
+
+# Mac OS
+.DS_Store
+
+# Viash
+.viash_log*
+target
+bin
+
+# VS Code
+/.vscode
